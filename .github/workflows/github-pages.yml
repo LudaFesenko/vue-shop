@@ -12,3 +12,5 @@ jobs:
         username: 'LudaFesenko'
         reponame: 'vue-shop'
         token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
+      env:
+        VITE_APP_API_URL: "https://back-shop-7uoy.onrender.com"
