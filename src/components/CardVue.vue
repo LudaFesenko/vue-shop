@@ -18,11 +18,11 @@ defineProps({
     <img
       v-if="onClickFavorite"
       @click="onClickFavorite"
-      :src="!isFavorite ? '/like-1.svg' : '/like-2.svg'"
+      :src="!isFavorite ? '/vue-shop/like-1.svg' : '/vue-shop/like-2.svg'"
       class="absolute top-8 left-8"
       alt="Like"
     />
-    <img :src="imgUrl" alt="Sneakers-1" />
+    <img :src="`/vue-shop/${imgUrl}`" alt="Sneakers-1" />
     <p class="mt-2">{{ title }}</p>
 
     <div class="flex justify-between mt-5">
@@ -34,7 +34,7 @@ defineProps({
         <img
           v-if="onClickFavorite"
           @click="onClickAdded"
-          :src="!isAdded ? '/plus.svg' : '/checked.svg'"
+          :src="!isAdded ? '/vue-shop/plus.svg' : '/vue-shop/checked.svg'"
           alt="Plus"
         />
       </div>
