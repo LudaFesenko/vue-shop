@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Кроссовки мужские Nike",
+    "price": 7300,
+    "imageUrl": "/sneakers/sneakers-1.jpg",
+    "id": "1"
+  },
+  {
+    "title": "Кроссовки мужские Nike",
+    "price": 7100,
+    "imageUrl": "/sneakers/sneakers-2.jpg",
+    "id": "2"
+  },
+  {
+    "title": "Кроссовки мужские Nike",
+    "price": 6600,
+    "imageUrl": "/sneakers/sneakers-3.jpg",
+    "id": "3"
+  },
+  {
+    "title": "Кроссовки женские Puma",
+    "price": 6500,
+    "imageUrl": "/sneakers/sneakers-4.jpg",
+    "id": "4"
+  },
+  {
+    "title": "Кроссовки Orange Bomb Edition",
+    "price": 6300,
+    "imageUrl": "/sneakers/sneakers-5.jpg",
+    "id": "5"
+  },
+  {
+    "title": "Кроссовки",
+    "price": 5700,
+    "imageUrl": "/sneakers/sneakers-6.jpg",
+    "id": "6"
+  },
+  {
+    "title": "Кроссовки Future Rider",
+    "price": 5200,
+    "imageUrl": "/sneakers/sneakers-7.jpg",
+    "id": "7"
+  },
+  {
+    "title": "Кроссовки",
+    "price": 5200,
+    "imageUrl": "/sneakers/sneakers-8.jpg",
+    "id": "8"
+  },
+  {
+    "title": "Кроссовки мужские Nike",
+    "price": 4900,
+    "imageUrl": "/sneakers/sneakers-9.jpg",
+    "id": "9"
+  },
+  {
+    "title": "Кроссовки мужские Nike",
+    "price": 3400,
+    "imageUrl": "/sneakers/sneakers-10.jpg",
+    "id": "10"
+  },
+  {
+    "title": "Кроссовки Puma",
+    "price": 2800,
+    "imageUrl": "/sneakers/sneakers-11.jpg",
+    "id": "11"
+  },
+  {
+    "title": "Кроссовки женские Puma",
+    "price": 1700,
+    "imageUrl": "/sneakers/sneakers-12.jpg",
+    "id": "12"
+  }
+]
